@@ -54,5 +54,5 @@ our 'WHERE' clause, we need to be particular about the order of which we are doi
 
 ## Schema
 
-!.[relational schema].(/docs/schema.JPG)
+![relational schema].(/docs/schema.JPG)
 
