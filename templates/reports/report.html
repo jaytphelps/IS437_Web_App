@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% block content %}
+    {% if errors %}
+      {% for e in errors %}
+          <div style="color:red;"> {{ e }}</div>
+      {% endfor %}
+    {% endif %}
+	Update or Upload Information As Necessary<br><br>
+    <form action="/report" method="POST" >
+      File Name: <br>
+      <input type="text" name="File_Name" value="{{ object.File_Name }}"/> <br><br>
+      File Type: <br>
+      <input type="text" name="File_Type" value="{{ object.File_Type }}"/> <br><br>
+	  Report Creation Date(yyy-mm-dd): <br>
+      <input type="text" name="ReportCreationDate" value="{{ object.ReportCreationDate }}"/> <br><br>
+      Report Name: <br>
+      <input type="text" name="Report_Name" value="{{ object.Report_Name }}"/> <br><br>
+	  Report Co-Sponsor: <br>
+	  <select name="Report_Sponsor_ID">
+		{% for row in spons %}
+			{% if object.Report_Sponsor_ID|string == row[0]|string %}
+				<option selected="true" value="{{ row[0] }}">{{ row[1] }}</option>
+			{% else %}
+				<option value="{{ row[0] }}">{{ row[1] }}</option>
+			{% endif %}
+		{% endfor %}
+	  </select><br><br>
+      <!--<input type="text" name="Report_Sponsor_ID" value="{{ object.Report_Sponsor_ID }}"/> <br><br>-->
+      Report Creator ID: <br>
+      <input type="text" name="User_ID" value="{{ object.User_ID }}"/> <br><br>
+	  
+      <input type="hidden" name="Report_ID" value="{{ object.Report_ID }}"/><br><br>
+
+      <input type="submit" value="Save" /> <br><br>
+
+    </form>
+
+    <br>
+    <br>
+    <a href="/report?Report_ID={{ object.Report_ID }}&delete=true">Delete Report {{ object.Report_Name }}</a>
+{% endblock %}

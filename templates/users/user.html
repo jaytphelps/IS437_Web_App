@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+{% block content %}
+    {% if errors %}
+      {% for e in errors %}
+          <div style="color:red;"> {{ e }}</div>
+      {% endfor %}
+    {% endif %}
+    <form action="/user" method="POST">
+      Email: <br>
+      <input type="text" name="User_Email" value="{{ object.User_Email }}"/> <br><br>
+      First name: <br>
+      <input type="text" name="User_First_Name" value="{{ object.User_First_Name }}"/> <br><br>
+      Last name: <br>
+      <input type="text" name="User_Last_Name" value="{{ object.User_Last_Name }}"/> <br><br>
+	  User Type:<br>
+      <select name="User_Type">
+		{% for t in choices %}
+			{% if object.User_Type|string == t[0]|string %}
+				<option selected="true" value="{{ t[0] }}">{{ t[1] }}</option>
+			{% else %}
+				<option value="{{ t[0] }}">{{ t[1] }}</option>
+			{% endif %}
+		{% endfor %}
+	  </select>
+	  <br><br>
+	  Department_ID<br>
+	  <select name="Department_ID">
+		{% for d in deps %}
+			{% if object.Department_ID|string == d[0]|string %}
+				<option selected="true" value="{{ d[0] }}">{{ d[1] }}</option>
+			{% else %}
+				<option value="{{ d[0] }}">{{ d[1] }}</option>
+			{% endif %}
+		{% endfor %}	
+	  </select>	<br><br>		
+      <!--<input type="text" name="Department_ID" value="{{ object.Department_ID }}"/> <br><br>-->
+      Password: (leave blank for no change): <br>
+      <input type="password" name="User_Password" value="" /> <br><br>
+      Retype password: <br>
+      <input type="password2" name="User_Password2" value="" /> <br><br>
+
+      <input type="hidden" name="User_ID" value="{{ object.User_ID }}"/>
+
+      <input type="submit" value="Save" /> <br><br>
+
+    </form>
+
+    <br>
+    <br>
+    <a href="/user?User_ID={{ object.User_ID }}&delete=true">Delete user {{ object.User_First_Name }} {{ object.User_Last_Name }}</a>
+{% endblock %}

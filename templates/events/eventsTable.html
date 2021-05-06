@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block content %}
+	{% if msg %}
+		<div style="color:red;"> {{ msg }}</div>
+    {% endif %}
+	
+	<div> 
+		<a href="/event?Event_ID=new">Create new Event</a>
+	</div>
+	<table>
+		<tr>
+			<td>Event ID</td>
+			<td>Report ID</td>
+			<td>Event Status</td>
+			<td>Event Date</td>
+		</tr>
+		{% for row in table %}
+			<tr>
+				<td><a href="/event?Event_ID={{ row.Event_ID }}">{{ row.Event_ID }}</a></td>
+				<td><a href="/report_by_event?Report_ID={{ row.Report_ID}}">{{ row.Report_ID }}</td>
+				<td>{{ row.Event_Status }}</td>
+				<td>{{ row.Event_Date }}</td>
+			</tr>
+		{% endfor %}
+		
+	</table>
+{% endblock %}

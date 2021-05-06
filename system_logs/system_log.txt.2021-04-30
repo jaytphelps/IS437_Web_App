@@ -1,0 +1,6 @@
+2021-04-30 22:48:31,206, systemLog, INFO, getting fields for Users
+2021-04-30 22:48:31,209, systemLog, INFO, fields = ['User_Name', 'User_Type', 'Department_ID']
+2021-04-30 22:48:31,251, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-04-30 22:57:16,645, systemLog, INFO, getting fields for Users
+2021-04-30 22:57:16,645, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-04-30 22:57:16,688, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>

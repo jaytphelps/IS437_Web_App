@@ -1,0 +1,2 @@
+2021-05-02 21:48:27,300, webLog, INFO, login failed for user jdae
+2021-05-02 22:12:49,569, webLog, INFO, user 5 deleted

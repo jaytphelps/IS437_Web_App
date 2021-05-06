@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{%block content %}
+	<b>{{ msg }}</b>
+	<br>
+	{% if user_type == 2 %}
+		<a href="/users">Manage Users</a>
+	{% else %}
+		<a href="/users">View Users</a>
+	{% endif %}
+	
+	{% if user_type == 2 %}
+		<a href="/departments">Manage Departments</a>
+	{% else %}
+		<a href="/departments">View Departments</a>
+	{% endif %}
+	<a href="/reports">Manage Reports</a>
+	<a href="/events">Manage Events</a>
+	
+{% endblock %}

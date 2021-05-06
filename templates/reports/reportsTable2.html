@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block content %}
+	{% if msg %}
+		<div style="color:red;"> {{ msg }}</div>
+    {% endif %}
+
+	<div> 
+	View Your Reports: User  {{ user_id }}
+	</div><br>
+	<table>
+		<tr>
+			<td>Report ID</td>
+			<td>Report Name</td>
+			<td>Report Type</td>
+			<td>Report Creator ID</td>
+		</tr>
+		{% for row in table %}
+			<tr>
+				<td>{{ row.Report_ID }}</td>
+				<td>{{ row.Report_Name }}</td>
+				<td>{{ row.Report_Type }}</td>
+				<td>{{ row.User_ID }}</td>
+			</tr>
+		{% endfor %}
+		
+	</table>
+{% endblock %}

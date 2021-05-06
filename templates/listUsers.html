@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block content %}
+	<table>
+		<tr>
+			<td>User ID</td>
+			<td>First Name</td>
+			<td>Last Name</td>
+			<td>Email</td>
+		</tr>
+		{% for row in table %}
+			<tr>
+				<td><a href="/listusers?id={{ row.User_ID }}">{{ row.User_ID }}</a></td>
+				<td>{{ row.User_First_Name }}</td>
+				<td>{{ row.User_Last_Name }}</td>
+				<td>{{ row.User_Email }}</td>
+			</tr>
+		{% endfor %}
+		
+	</table>
+{% endblock %}
+				

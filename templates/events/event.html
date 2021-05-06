@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% block content %}
+    {% if errors %}
+      {% for e in errors %}
+          <div style="color:red;"> {{ e }}</div>
+      {% endfor %}
+    {% endif %}
+	Update Information If Necessary<br>
+    <form action="/event" method="POST" ><br>
+      Report ID to log Event: <br>
+      <input type="text" name="Report_ID" value="{{ object.Report_ID }}"/> <br><br>
+      Event Date:(yyyy-mm-dd) <br>
+      <input type="text" name="Event_Date" value="{{ object.Event_Date }}"/> <br><br>
+	  Event Status: <br>
+	  <select name="Event_Status">
+		{% for t in choices %}
+			{% if object.Event_Status|string == t[0]|string %}
+				<option selected="true" value="{{ t }}">{{ t }}</option>
+			{% else %}
+				<option value="{{ t }}">{{ t }}</option>
+			{% endif %}
+		{% endfor %}
+	  </select>
+	  <br><br>
+      <!--<input type="text" name="Event_Status" value="{{ object.Event_Status }}"/> <br><br>-->
+      User Associated with Event: <br>
+      <input type="text" name="User_ID" value="{{ object.User_ID }}"/> <br><br>
+
+      <input type="hidden" name="Event_ID" value="{{ object.Event_ID }}"/><br><br>
+
+      <input type="submit" value="Save" /> <br><br>
+
+    </form>
+
+    <br>
+    <br>
+    <a href="/event?Event_ID={{ object.Event_ID }}&delete=true">Delete Event {{ object.Event_ID }}</a>
+{% endblock %}

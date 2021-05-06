@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block content %}
+    {% if errors %}
+      {% for e in errors %}
+          <div style="color:red;"> {{ e }}</div>
+      {% endfor %}
+    {% endif %}
+    <form action="/report_by_event" method="POST" >
+      File Name: <br>
+      <input type="text" name="File_Name" value="{{ object.File_Name }}" readonly/> <br><br>
+      File Type: <br>
+      <input type="text" name="File_Type" value="{{ object.File_Type }}" readonly/> <br><br>
+	  Report Creation Date: <br>
+      <input type="text" name="ReportCreationDate" value="{{ object.ReportCreationDate }}"readonly/> <br><br>
+      Report Name: <br>
+      <input type="text" name="Report_Name" value="{{ object.Report_Name }}"readonly/> <br><br>
+	  Report Co-Sponsor: <br>
+      <input type="text" name="Report_Sponsor_ID" value="{{ object.Report_Sponsor_ID }}"readonly/> <br><br>
+      Report Creator ID: <br>
+      <input type="text" name="User_ID" value="{{ object.User_ID }}"readonly/> <br><br>
+
+      <input type="hidden" name="Report_ID" value="{{ object.Report_ID }}"readonly/><br><br>
+
+
+    </form>
+
+    <br>
+    <br>
+{% endblock %}

@@ -1,0 +1,29 @@
+2021-04-28 19:38:34,234, systemLog, INFO, getting fields for users
+2021-04-28 19:38:34,235, systemLog, INFO, fields = ['fname', 'lname', 'email', 'pw']
+2021-04-28 19:40:26,685, systemLog, INFO, getting fields for users
+2021-04-28 19:40:26,685, systemLog, INFO, fields = ['fname', 'lname', 'email', 'pw']
+2021-04-28 19:40:26,775, systemLog, INFO, sql = SELECT * FROM `users`; values = <built-in function id>
+2021-04-28 19:41:07,815, systemLog, INFO, getting fields for users
+2021-04-28 19:41:07,815, systemLog, INFO, fields = ['fname', 'lname', 'email', 'pw']
+2021-04-28 19:41:07,872, systemLog, INFO, sql = SELECT * FROM `users`; values = <built-in function id>
+2021-04-28 19:43:41,260, systemLog, INFO, getting fields for users
+2021-04-28 19:43:41,260, systemLog, INFO, fields = ['fname', 'lname', 'email', 'pw']
+2021-04-28 19:43:41,302, systemLog, INFO, sql = SELECT * FROM `users`; values = <built-in function id>
+2021-04-28 19:44:05,154, systemLog, INFO, getting fields for users
+2021-04-28 19:44:05,155, systemLog, INFO, fields = ['fname', 'lname', 'email', 'pw']
+2021-04-28 19:44:05,205, systemLog, INFO, sql = SELECT * FROM `users`; values = <built-in function id>
+2021-04-28 19:45:11,248, systemLog, INFO, getting fields for users
+2021-04-28 19:45:11,248, systemLog, INFO, fields = ['fname', 'lname', 'email', 'pw']
+2021-04-28 19:45:11,289, systemLog, INFO, sql = SELECT * FROM `users`; values = <built-in function id>
+2021-04-28 20:32:59,913, systemLog, INFO, getting fields for Users
+2021-04-28 20:32:59,913, systemLog, INFO, fields = ['User_ID', 'User_Name', 'User_Type', 'DepartmentID']
+2021-04-28 20:32:59,989, systemLog, INFO, getting fields for Users
+2021-04-28 20:32:59,989, systemLog, INFO, fields = ['User_ID', 'User_Name', 'User_Type', 'DepartmentID', 'User_ID', 'User_Name', 'User_Type', 'DepartmentID']
+2021-04-28 20:33:15,642, systemLog, INFO, getting fields for Users
+2021-04-28 20:33:15,642, systemLog, INFO, fields = ['User_ID', 'User_Name', 'User_Type', 'DepartmentID']
+2021-04-28 20:33:15,732, systemLog, INFO, getting fields for Users
+2021-04-28 20:33:15,732, systemLog, INFO, fields = ['User_ID', 'User_Name', 'User_Type', 'DepartmentID', 'User_ID', 'User_Name', 'User_Type', 'DepartmentID']
+2021-04-28 20:33:53,149, systemLog, INFO, getting fields for Users
+2021-04-28 20:33:53,150, systemLog, INFO, fields = ['User_ID', 'User_Name', 'User_Type', 'DepartmentID']
+2021-04-28 20:33:53,208, systemLog, INFO, getting fields for Users
+2021-04-28 20:33:53,209, systemLog, INFO, fields = ['User_ID', 'User_Name', 'User_Type', 'DepartmentID', 'User_ID', 'User_Name', 'User_Type', 'DepartmentID']

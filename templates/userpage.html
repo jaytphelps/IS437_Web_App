@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+    {% if errors %}
+      {% for e in errors %}
+          <div style="color:red;"> {{ e }}</div>
+      {% endfor %}
+    {% endif %}
+
+    <!-- Form for editing object -->
+    <form action="/user" method="POST" >
+      Email: <br>
+      <input type="text" name="User_Email" value="{{ object.User_Email }}"/> <br><br>
+      First name: <br>
+      <input type="text" name="User_First_Name" value="{{ object.User_First_Name }}"/> <br><br>
+      Last name: <br>
+      <input type="text" name="User_Last_Name" value="{{ object.User_Last_Name }}"/> <br><br>
+      Password: (leave blank for no change): <br>
+      <input type="password" name="Password" value="" /> <br><br>
+      Retype password: <br>
+      <input type="password" name="Password2" value="" /> <br><br>
+
+      <input type="hidden" name="User_ID" value="{{ object.User_ID }}"/>
+
+      <input type="submit" value="Save" /> <br><br>
+
+    </form>
+
+    <br>
+    <br>
+    <a href="/user?User_ID={{ object.User_ID }}&delete=true">Delete user {{ object.User_ID }}</a>
+{% endblock %}

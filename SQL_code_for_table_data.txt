@@ -1,0 +1,43 @@
+*txt file for SQL testing IS FInal project
+
+
+--Inputting Departments
+INSERT INTO Department(Department_Name, Department_Type)
+VALUES('Information Technology', 'IT');
+
+INSERT INTO Department(Department_Name, Department_Type)
+VALUES('Financial Analysis', 'Finance')
+
+
+--Inputting Users
+INSERT INTO Users(Department_ID, User_Name, User_Type)
+VALUES('1', 'Jason Phelps', '1');
+
+INSERT INTO Users(Department_ID, User_Name, User_Type)
+VALUES('1', 'Tyler Conlon', '1');
+
+INSERT INTO Users(Department_ID, User_Name, User_Type)
+VALUES('2', 'Joe Lucas', '2')
+
+
+--Inputting Reports
+INSERT INTO Reports(File_Name, File_Type, ReportCreationDate, Report_Name, Report_Sponsor_ID, Report_Type, User_ID)
+VALUES('yearOneAnalysis.xl', 'xlsx', '2021-04-15', 'Year One Analysis Report', '2', '1', '1');
+
+INSERT INTO Reports(File_Name, File_Type, ReportCreationDate, Report_Name, Report_Sponsor_ID, Report_Type, User_ID)
+VALUES('dailyChange.docx', 'docx', '2021-04-29', 'Daily Change Report', '3', '2', '2')
+
+
+
+--Inputting Events
+INSERT INTO Events(Report_ID, Report_Recieved, Report_Sent, Report_Type)
+VALUES('1', 'Recieve Confirmed 2021-04-22', 'Report Sent 2021-04-15', '1');
+
+INSERT INTO Events(Report_ID, Report_Recieved, Report_Sent, Report_Type)
+VALUES('2', 'Recieve Confirmed 2021-04-30', 'Report Sent 2021-04-29', '2')
+
+
+
+
+
+

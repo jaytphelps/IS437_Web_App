@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block content %}
+    {% if errors %}
+      {% for e in errors %}
+          <div style="color:red;"> {{ e }}</div>
+      {% endfor %}
+    {% endif %}
+    <form action="/department" method="POST" >
+      Department Type:<br>
+	  <input type="text" name="Department_Type" value="{{ object.Department_Type }}"/> <br><br>
+	  Department Name: <br>
+	  <input type="text" name="Department_Name" value="{{ object.Department_Name }}"/> <br><br>
+	  
+	  <input type="hidden" name="Department_ID" value="{{ object.Department_ID }}"/><br><br>
+
+      <input type="submit" value="Save" /> <br><br>
+
+    </form>
+
+    <br>
+    <br>
+    <a href="/department?Department_ID={{ object.Department_ID }}&delete=true">Delete Department {{ object.Department_Name }}</a>
+{% endblock %}

@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block content %}
+    {% if errors %}
+      {% for e in errors %}
+          <div style="color:red;"> {{ e }}</div>
+      {% endfor %}
+    {% endif %}
+    <form action="/department" method="POST" >
+      Department Type:<br>
+	  <select name="Department_Type">
+		{% for d in deps %}
+			{% if object.Department_Type|string == d[0]|string %}
+				<option selected="true" value="{{ d[0] }}">{{ d[0] }}</option>
+			{% else %}
+				<option value="{{ d[0] }}">{{ d[0] }}</option>
+			{% endif %}
+		{% endfor %}
+	  </select><br><br>
+      <!--<input type="text" name="Department_Type" value="{{ object.Department_Type }}"/> <br><br>-->
+      Department Name: <br>
+	  <select name="Department_Name">
+		{% for d in deps %}
+			{% if object.Department_Name|string == d[1]|string %}
+				<option selected="true" value="{{ d[1] }}">{{ d[1] }}</option>
+			{% else %}
+				<option value="{{ d[1] }}">{{ d[1] }}</option>
+			{% endif %}
+		{% endfor %}
+	  </select><br><br>
+	  
+	  
+	  
+      <!--<input type="text" name="Department_Name" value="{{ object.Department_Name }}"/> <br><br> -->
+
+      <input type="hidden" name="Department_ID" value="{{ object.Department_ID }}"/><br><br>
+
+      <input type="submit" value="Save" /> <br><br>
+
+    </form>
+
+    <br>
+    <br>
+    <a href="/department?Department_ID={{ object.Department_ID }}&delete=true">Delete Department {{ object.Department_Name }}</a>
+{% endblock %}

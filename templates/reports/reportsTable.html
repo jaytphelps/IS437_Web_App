@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block content %}
+	{% if msg %}
+		<div style="color:red;"> {{ msg }}</div>
+    {% endif %}
+
+	<div> 
+		<a href="/report?Report_ID=new">Create new Report</a>
+	</div>
+	User_Type {{ user_type }}
+	<table>
+		<tr>
+			<td>Report ID</td>
+			<td>Report Name</td>
+			<td>Report Type</td>
+			<td>Report Creator ID</td>
+		</tr>
+		{% for row in table %}
+			<tr>
+				<td><a href="/report?Report_ID={{ row.Report_ID }}">{{ row.Report_ID }}</a></td>
+				<td>{{ row.Report_Name }}</td>
+				<td>{{ row.Report_Type }}</td>
+				<td>{{ row.User_First_Name }} {{ row.User_Last_Name }}</td>
+			</tr>
+		{% endfor %}
+		
+	</table>
+{% endblock %}

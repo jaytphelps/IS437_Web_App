@@ -1,0 +1,781 @@
+2021-05-01 00:02:45,494, systemLog, INFO, getting fields for Users
+2021-05-01 00:02:45,497, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:02:45,556, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:03:10,296, systemLog, INFO, getting fields for Users
+2021-05-01 00:03:10,297, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:03:10,342, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:03:11,845, systemLog, INFO, getting fields for Users
+2021-05-01 00:03:11,846, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:03:11,909, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:04:41,700, systemLog, INFO, getting fields for Users
+2021-05-01 00:04:41,701, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:04:41,747, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:04:55,050, systemLog, INFO, getting fields for Users
+2021-05-01 00:04:55,050, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:04:55,090, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:04:56,529, systemLog, INFO, getting fields for Users
+2021-05-01 00:04:56,529, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:04:56,566, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:06:04,179, systemLog, INFO, getting fields for Users
+2021-05-01 00:06:04,179, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:06:04,230, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:06:44,504, systemLog, INFO, getting fields for Users
+2021-05-01 00:06:44,504, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:06:44,596, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:07:57,096, systemLog, INFO, getting fields for Users
+2021-05-01 00:07:57,097, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:07:57,143, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:08:01,864, systemLog, INFO, getting fields for Users
+2021-05-01 00:08:01,864, systemLog, INFO, getting fields for Users
+2021-05-01 00:08:01,864, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:08:01,864, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:08:01,904, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:08:01,904, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:08:44,873, systemLog, INFO, getting fields for Users
+2021-05-01 00:08:44,873, systemLog, INFO, getting fields for Users
+2021-05-01 00:08:44,873, systemLog, INFO, getting fields for Users
+2021-05-01 00:08:44,873, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:08:44,873, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:08:44,873, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:08:44,924, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:08:44,924, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:08:44,924, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:10:48,817, systemLog, INFO, getting fields for Users
+2021-05-01 00:10:48,817, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:10:48,852, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:10:49,645, systemLog, INFO, getting fields for Users
+2021-05-01 00:10:49,645, systemLog, INFO, getting fields for Users
+2021-05-01 00:10:49,645, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:10:49,645, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:10:49,702, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:10:49,702, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:11:42,248, systemLog, INFO, getting fields for Users
+2021-05-01 00:11:42,248, systemLog, INFO, getting fields for Users
+2021-05-01 00:11:42,248, systemLog, INFO, getting fields for Users
+2021-05-01 00:11:42,248, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:11:42,248, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:11:42,248, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:11:42,295, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:11:42,295, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:11:42,295, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:12:56,471, systemLog, INFO, getting fields for Users
+2021-05-01 00:12:56,471, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:12:56,555, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:14:27,133, systemLog, INFO, getting fields for Users
+2021-05-01 00:14:27,133, systemLog, INFO, getting fields for Users
+2021-05-01 00:14:27,134, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:14:27,134, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:14:27,179, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:14:27,179, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:15:29,389, systemLog, INFO, getting fields for Users
+2021-05-01 00:15:29,389, systemLog, INFO, getting fields for Users
+2021-05-01 00:15:29,389, systemLog, INFO, getting fields for Users
+2021-05-01 00:15:29,390, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:15:29,390, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:15:29,390, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:15:29,432, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:15:29,432, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:15:29,432, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:15:48,259, systemLog, INFO, getting fields for Users
+2021-05-01 00:15:48,259, systemLog, INFO, getting fields for Users
+2021-05-01 00:15:48,259, systemLog, INFO, getting fields for Users
+2021-05-01 00:15:48,259, systemLog, INFO, getting fields for Users
+2021-05-01 00:15:48,259, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:15:48,259, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:15:48,259, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:15:48,259, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:15:48,300, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:15:48,300, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:15:48,300, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:15:48,300, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:19:00,424, systemLog, INFO, getting fields for Users
+2021-05-01 00:19:00,424, systemLog, INFO, getting fields for Users
+2021-05-01 00:19:00,424, systemLog, INFO, getting fields for Users
+2021-05-01 00:19:00,424, systemLog, INFO, getting fields for Users
+2021-05-01 00:19:00,424, systemLog, INFO, getting fields for Users
+2021-05-01 00:19:00,424, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:19:00,424, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:19:00,424, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:19:00,424, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:19:00,424, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:19:00,499, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:19:00,499, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:19:00,499, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:19:00,499, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:19:00,499, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:30:09,573, systemLog, INFO, getting fields for Users
+2021-05-01 00:30:09,573, systemLog, INFO, getting fields for Users
+2021-05-01 00:30:09,573, systemLog, INFO, getting fields for Users
+2021-05-01 00:30:09,573, systemLog, INFO, getting fields for Users
+2021-05-01 00:30:09,573, systemLog, INFO, getting fields for Users
+2021-05-01 00:30:09,573, systemLog, INFO, getting fields for Users
+2021-05-01 00:30:09,574, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:30:09,574, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:30:09,574, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:30:09,574, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:30:09,574, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:30:09,574, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:30:09,630, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:30:09,630, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:30:09,630, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:30:09,630, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:30:09,630, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:30:09,630, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:30:34,490, systemLog, INFO, getting fields for Users
+2021-05-01 00:30:34,491, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:30:34,534, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:30:57,768, systemLog, INFO, getting fields for Users
+2021-05-01 00:30:57,768, systemLog, INFO, getting fields for Users
+2021-05-01 00:30:57,768, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:30:57,768, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:30:57,810, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:30:57,810, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:31:12,550, systemLog, INFO, getting fields for Users
+2021-05-01 00:31:12,550, systemLog, INFO, getting fields for Users
+2021-05-01 00:31:12,550, systemLog, INFO, getting fields for Users
+2021-05-01 00:31:12,550, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:31:12,550, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:31:12,550, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:31:12,594, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:31:12,594, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:31:12,594, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:31:21,923, systemLog, INFO, getting fields for Users
+2021-05-01 00:31:21,923, systemLog, INFO, getting fields for Users
+2021-05-01 00:31:21,923, systemLog, INFO, getting fields for Users
+2021-05-01 00:31:21,923, systemLog, INFO, getting fields for Users
+2021-05-01 00:31:21,923, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:31:21,923, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:31:21,923, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:31:21,923, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:31:21,963, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:31:21,963, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:31:21,963, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:31:21,963, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:32:39,482, systemLog, INFO, getting fields for Users
+2021-05-01 00:32:39,482, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_email', 'User_Password']
+2021-05-01 00:32:39,540, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:34:51,643, systemLog, INFO, getting fields for Users
+2021-05-01 00:34:51,643, systemLog, INFO, getting fields for Users
+2021-05-01 00:34:51,644, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:34:51,644, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:34:51,678, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:34:51,678, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:40:38,759, systemLog, INFO, getting fields for Users
+2021-05-01 00:40:38,759, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:40:38,827, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 00:43:34,626, systemLog, INFO, getting fields for Users
+2021-05-01 00:43:34,626, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:43:34,667, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 00:43:36,303, systemLog, INFO, getting fields for Users
+2021-05-01 00:43:36,304, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:43:36,362, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 00:43:47,942, systemLog, INFO, getting fields for Users
+2021-05-01 00:43:47,942, systemLog, INFO, getting fields for Users
+2021-05-01 00:43:47,942, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:43:47,942, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:43:47,981, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = None
+2021-05-01 00:43:47,981, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = None
+2021-05-01 00:45:51,760, systemLog, INFO, getting fields for Users
+2021-05-01 00:45:51,760, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:45:51,799, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 00:46:18,629, systemLog, INFO, getting fields for Users
+2021-05-01 00:46:18,629, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:46:18,677, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 00:47:00,292, systemLog, INFO, getting fields for Users
+2021-05-01 00:47:00,292, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:47:00,355, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 00:47:12,132, systemLog, INFO, getting fields for Users
+2021-05-01 00:47:12,133, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:47:12,194, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 00:47:14,717, systemLog, INFO, getting fields for Users
+2021-05-01 00:47:14,717, systemLog, INFO, getting fields for Users
+2021-05-01 00:47:14,718, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:47:14,718, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:47:14,757, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = None
+2021-05-01 00:47:14,757, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = None
+2021-05-01 00:50:33,895, systemLog, INFO, getting fields for Users
+2021-05-01 00:50:33,896, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:50:33,932, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 00:50:39,112, systemLog, INFO, getting fields for Users
+2021-05-01 00:50:39,112, systemLog, INFO, getting fields for Users
+2021-05-01 00:50:39,112, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:50:39,112, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:50:39,155, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = None
+2021-05-01 00:50:39,155, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = None
+2021-05-01 00:50:51,825, systemLog, INFO, getting fields for Users
+2021-05-01 00:50:51,825, systemLog, INFO, getting fields for Users
+2021-05-01 00:50:51,825, systemLog, INFO, getting fields for Users
+2021-05-01 00:50:51,825, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:50:51,825, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:50:51,825, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:50:51,903, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:50:51,903, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:50:51,903, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:51:42,498, systemLog, INFO, getting fields for Users
+2021-05-01 00:51:42,499, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:51:42,556, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 00:51:44,152, systemLog, INFO, getting fields for Users
+2021-05-01 00:51:44,152, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:51:44,192, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 00:52:32,222, systemLog, INFO, getting fields for Users
+2021-05-01 00:52:32,222, systemLog, INFO, getting fields for Users
+2021-05-01 00:52:32,222, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:52:32,222, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:52:32,266, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:52:32,266, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:52:35,214, systemLog, INFO, getting fields for Users
+2021-05-01 00:52:35,214, systemLog, INFO, getting fields for Users
+2021-05-01 00:52:35,214, systemLog, INFO, getting fields for Users
+2021-05-01 00:52:35,214, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:52:35,214, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:52:35,214, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:52:35,256, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:52:35,256, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:52:35,256, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:52:45,396, systemLog, INFO, getting fields for Users
+2021-05-01 00:52:45,396, systemLog, INFO, getting fields for Users
+2021-05-01 00:52:45,396, systemLog, INFO, getting fields for Users
+2021-05-01 00:52:45,396, systemLog, INFO, getting fields for Users
+2021-05-01 00:52:45,397, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:52:45,397, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:52:45,397, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:52:45,397, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:52:45,445, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:52:45,445, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:52:45,445, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:52:45,445, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:53:29,844, systemLog, INFO, getting fields for Users
+2021-05-01 00:53:29,844, systemLog, INFO, getting fields for Users
+2021-05-01 00:53:29,844, systemLog, INFO, getting fields for Users
+2021-05-01 00:53:29,844, systemLog, INFO, getting fields for Users
+2021-05-01 00:53:29,844, systemLog, INFO, getting fields for Users
+2021-05-01 00:53:29,845, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:53:29,845, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:53:29,845, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:53:29,845, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:53:29,845, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:53:29,887, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:53:29,887, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:53:29,887, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:53:29,887, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:53:29,887, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:57:01,678, systemLog, INFO, getting fields for Users
+2021-05-01 00:57:01,678, systemLog, INFO, getting fields for Users
+2021-05-01 00:57:01,678, systemLog, INFO, getting fields for Users
+2021-05-01 00:57:01,678, systemLog, INFO, getting fields for Users
+2021-05-01 00:57:01,678, systemLog, INFO, getting fields for Users
+2021-05-01 00:57:01,678, systemLog, INFO, getting fields for Users
+2021-05-01 00:57:01,679, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:57:01,679, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:57:01,679, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:57:01,679, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:57:01,679, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:57:01,679, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:57:01,732, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:57:01,732, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:57:01,732, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:57:01,732, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:57:01,732, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:57:01,732, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:57:05,847, systemLog, INFO, getting fields for Users
+2021-05-01 00:57:05,847, systemLog, INFO, getting fields for Users
+2021-05-01 00:57:05,847, systemLog, INFO, getting fields for Users
+2021-05-01 00:57:05,847, systemLog, INFO, getting fields for Users
+2021-05-01 00:57:05,847, systemLog, INFO, getting fields for Users
+2021-05-01 00:57:05,847, systemLog, INFO, getting fields for Users
+2021-05-01 00:57:05,847, systemLog, INFO, getting fields for Users
+2021-05-01 00:57:05,847, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:57:05,847, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:57:05,847, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:57:05,847, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:57:05,847, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:57:05,847, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:57:05,847, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:57:05,885, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:57:05,885, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:57:05,885, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:57:05,885, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:57:05,885, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:57:05,885, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:57:05,885, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:58:15,585, systemLog, INFO, getting fields for Users
+2021-05-01 00:58:15,585, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:58:15,627, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 00:58:19,675, systemLog, INFO, getting fields for Users
+2021-05-01 00:58:19,675, systemLog, INFO, getting fields for Users
+2021-05-01 00:58:19,676, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:58:19,676, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:58:19,726, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:58:19,726, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:58:21,704, systemLog, INFO, getting fields for Users
+2021-05-01 00:58:21,704, systemLog, INFO, getting fields for Users
+2021-05-01 00:58:21,704, systemLog, INFO, getting fields for Users
+2021-05-01 00:58:21,704, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:58:21,704, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:58:21,704, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:58:21,752, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:58:21,752, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:58:21,752, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:59:55,075, systemLog, INFO, getting fields for Users
+2021-05-01 00:59:55,076, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:59:55,124, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 00:59:57,075, systemLog, INFO, getting fields for Users
+2021-05-01 00:59:57,075, systemLog, INFO, getting fields for Users
+2021-05-01 00:59:57,076, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:59:57,076, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 00:59:57,127, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 00:59:57,127, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:00:01,737, systemLog, INFO, getting fields for Users
+2021-05-01 01:00:01,737, systemLog, INFO, getting fields for Users
+2021-05-01 01:00:01,737, systemLog, INFO, getting fields for Users
+2021-05-01 01:00:01,738, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:00:01,738, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:00:01,738, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:00:01,773, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:00:01,773, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:00:01,773, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:01:16,421, systemLog, INFO, getting fields for Users
+2021-05-01 01:01:16,421, systemLog, INFO, getting fields for Users
+2021-05-01 01:01:16,421, systemLog, INFO, getting fields for Users
+2021-05-01 01:01:16,421, systemLog, INFO, getting fields for Users
+2021-05-01 01:01:16,421, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:01:16,421, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:01:16,421, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:01:16,421, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:01:16,466, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:01:16,466, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:01:16,466, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:01:16,466, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:01:19,400, systemLog, INFO, getting fields for Users
+2021-05-01 01:01:19,400, systemLog, INFO, getting fields for Users
+2021-05-01 01:01:19,400, systemLog, INFO, getting fields for Users
+2021-05-01 01:01:19,400, systemLog, INFO, getting fields for Users
+2021-05-01 01:01:19,400, systemLog, INFO, getting fields for Users
+2021-05-01 01:01:19,400, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:01:19,400, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:01:19,400, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:01:19,400, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:01:19,400, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:01:19,446, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:01:19,446, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:01:19,446, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:01:19,446, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:01:19,446, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:08:58,033, systemLog, INFO, getting fields for Users
+2021-05-01 01:08:58,033, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:08:58,099, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 01:08:58,440, systemLog, INFO, getting fields for Users
+2021-05-01 01:08:58,440, systemLog, INFO, getting fields for Users
+2021-05-01 01:08:58,441, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:08:58,441, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:08:58,492, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:08:58,492, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:09:38,429, systemLog, INFO, getting fields for Users
+2021-05-01 01:09:38,429, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:09:38,481, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 01:09:39,207, systemLog, INFO, getting fields for Users
+2021-05-01 01:09:39,207, systemLog, INFO, getting fields for Users
+2021-05-01 01:09:39,208, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:09:39,208, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:09:39,252, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:09:39,252, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:09:41,575, systemLog, INFO, getting fields for Users
+2021-05-01 01:09:41,575, systemLog, INFO, getting fields for Users
+2021-05-01 01:09:41,575, systemLog, INFO, getting fields for Users
+2021-05-01 01:09:41,575, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:09:41,575, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:09:41,575, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:09:41,622, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:09:41,622, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:09:41,622, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:09:53,022, systemLog, INFO, getting fields for Users
+2021-05-01 01:09:53,022, systemLog, INFO, getting fields for Users
+2021-05-01 01:09:53,022, systemLog, INFO, getting fields for Users
+2021-05-01 01:09:53,022, systemLog, INFO, getting fields for Users
+2021-05-01 01:09:53,022, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:09:53,022, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:09:53,022, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:09:53,022, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:09:53,074, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:09:53,074, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:09:53,074, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:09:53,074, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:10:04,326, systemLog, INFO, getting fields for Users
+2021-05-01 01:10:04,326, systemLog, INFO, getting fields for Users
+2021-05-01 01:10:04,326, systemLog, INFO, getting fields for Users
+2021-05-01 01:10:04,326, systemLog, INFO, getting fields for Users
+2021-05-01 01:10:04,326, systemLog, INFO, getting fields for Users
+2021-05-01 01:10:04,326, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:10:04,326, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:10:04,326, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:10:04,326, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:10:04,326, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:10:04,368, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:10:04,368, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:10:04,368, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:10:04,368, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:10:04,368, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:10:22,090, systemLog, INFO, getting fields for Users
+2021-05-01 01:10:22,091, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:10:22,125, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 01:11:29,890, systemLog, INFO, getting fields for Users
+2021-05-01 01:11:29,890, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:11:29,940, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 01:11:30,305, systemLog, INFO, getting fields for Users
+2021-05-01 01:11:30,305, systemLog, INFO, getting fields for Users
+2021-05-01 01:11:30,306, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:11:30,306, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:11:30,355, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:11:30,355, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:11:37,460, systemLog, INFO, getting fields for Users
+2021-05-01 01:11:37,460, systemLog, INFO, getting fields for Users
+2021-05-01 01:11:37,460, systemLog, INFO, getting fields for Users
+2021-05-01 01:11:37,460, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:11:37,460, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:11:37,460, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:11:37,520, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:11:37,520, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:11:37,520, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:12:19,068, systemLog, INFO, getting fields for Users
+2021-05-01 01:12:19,068, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:12:19,116, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 01:12:21,636, systemLog, INFO, getting fields for Users
+2021-05-01 01:12:21,636, systemLog, INFO, getting fields for Users
+2021-05-01 01:12:21,637, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:12:21,637, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:12:21,688, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:12:21,688, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:12:26,001, systemLog, INFO, getting fields for Users
+2021-05-01 01:12:26,001, systemLog, INFO, getting fields for Users
+2021-05-01 01:12:26,001, systemLog, INFO, getting fields for Users
+2021-05-01 01:12:26,001, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:12:26,001, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:12:26,001, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:12:26,067, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:12:26,067, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:12:26,067, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:13:25,164, systemLog, INFO, getting fields for Users
+2021-05-01 01:13:25,165, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:13:25,209, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 01:15:04,272, systemLog, INFO, getting fields for Users
+2021-05-01 01:15:04,272, systemLog, INFO, getting fields for Users
+2021-05-01 01:15:04,272, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:15:04,272, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:15:04,311, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:15:04,311, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:15:06,400, systemLog, INFO, getting fields for Users
+2021-05-01 01:15:06,400, systemLog, INFO, getting fields for Users
+2021-05-01 01:15:06,400, systemLog, INFO, getting fields for Users
+2021-05-01 01:15:06,401, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:15:06,401, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:15:06,401, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:15:06,443, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = None
+2021-05-01 01:15:06,443, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = None
+2021-05-01 01:15:06,443, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = None
+2021-05-01 01:19:10,611, systemLog, INFO, getting fields for Users
+2021-05-01 01:19:10,611, systemLog, INFO, getting fields for Users
+2021-05-01 01:19:10,611, systemLog, INFO, getting fields for Users
+2021-05-01 01:19:10,611, systemLog, INFO, getting fields for Users
+2021-05-01 01:19:10,612, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:19:10,612, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:19:10,612, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:19:10,612, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:19:10,660, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:19:10,660, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:19:10,660, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:19:10,660, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:19:30,980, systemLog, INFO, getting fields for Users
+2021-05-01 01:19:30,981, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:19:31,023, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 01:19:34,915, systemLog, INFO, getting fields for Users
+2021-05-01 01:19:34,915, systemLog, INFO, getting fields for Users
+2021-05-01 01:19:34,915, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:19:34,915, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:19:34,953, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 01:19:34,953, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 01:20:58,458, systemLog, INFO, getting fields for Users
+2021-05-01 01:20:58,458, systemLog, INFO, getting fields for Users
+2021-05-01 01:20:58,458, systemLog, INFO, getting fields for Users
+2021-05-01 01:20:58,458, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:20:58,458, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:20:58,458, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:20:58,517, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 01:20:58,517, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 01:20:58,517, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 01:21:16,621, systemLog, INFO, getting fields for Users
+2021-05-01 01:21:16,621, systemLog, INFO, getting fields for Users
+2021-05-01 01:21:16,621, systemLog, INFO, getting fields for Users
+2021-05-01 01:21:16,621, systemLog, INFO, getting fields for Users
+2021-05-01 01:21:16,622, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:21:16,622, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:21:16,622, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:21:16,622, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:21:16,668, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 01:21:16,668, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 01:21:16,668, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 01:21:16,668, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 01:24:02,314, systemLog, INFO, getting fields for Users
+2021-05-01 01:24:02,314, systemLog, INFO, getting fields for Users
+2021-05-01 01:24:02,314, systemLog, INFO, getting fields for Users
+2021-05-01 01:24:02,314, systemLog, INFO, getting fields for Users
+2021-05-01 01:24:02,314, systemLog, INFO, getting fields for Users
+2021-05-01 01:24:02,315, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:24:02,315, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:24:02,315, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:24:02,315, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:24:02,315, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:24:02,354, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:24:02,354, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:24:02,354, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:24:02,354, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:24:02,354, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:24:04,682, systemLog, INFO, getting fields for Users
+2021-05-01 01:24:04,682, systemLog, INFO, getting fields for Users
+2021-05-01 01:24:04,682, systemLog, INFO, getting fields for Users
+2021-05-01 01:24:04,682, systemLog, INFO, getting fields for Users
+2021-05-01 01:24:04,682, systemLog, INFO, getting fields for Users
+2021-05-01 01:24:04,682, systemLog, INFO, getting fields for Users
+2021-05-01 01:24:04,683, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:24:04,683, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:24:04,683, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:24:04,683, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:24:04,683, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:24:04,683, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:24:04,727, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 2
+2021-05-01 01:24:04,727, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 2
+2021-05-01 01:24:04,727, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 2
+2021-05-01 01:24:04,727, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 2
+2021-05-01 01:24:04,727, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 2
+2021-05-01 01:24:04,727, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 2
+2021-05-01 01:24:56,608, systemLog, INFO, getting fields for Users
+2021-05-01 01:24:56,608, systemLog, INFO, getting fields for Users
+2021-05-01 01:24:56,608, systemLog, INFO, getting fields for Users
+2021-05-01 01:24:56,608, systemLog, INFO, getting fields for Users
+2021-05-01 01:24:56,608, systemLog, INFO, getting fields for Users
+2021-05-01 01:24:56,608, systemLog, INFO, getting fields for Users
+2021-05-01 01:24:56,608, systemLog, INFO, getting fields for Users
+2021-05-01 01:24:56,609, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:24:56,609, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:24:56,609, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:24:56,609, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:24:56,609, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:24:56,609, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:24:56,609, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:24:56,651, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:24:56,651, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:24:56,651, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:24:56,651, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:24:56,651, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:24:56,651, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:24:56,651, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:24:58,328, systemLog, INFO, getting fields for Users
+2021-05-01 01:24:58,328, systemLog, INFO, getting fields for Users
+2021-05-01 01:24:58,328, systemLog, INFO, getting fields for Users
+2021-05-01 01:24:58,328, systemLog, INFO, getting fields for Users
+2021-05-01 01:24:58,328, systemLog, INFO, getting fields for Users
+2021-05-01 01:24:58,328, systemLog, INFO, getting fields for Users
+2021-05-01 01:24:58,328, systemLog, INFO, getting fields for Users
+2021-05-01 01:24:58,328, systemLog, INFO, getting fields for Users
+2021-05-01 01:24:58,328, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:24:58,328, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:24:58,328, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:24:58,328, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:24:58,328, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:24:58,328, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:24:58,328, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:24:58,328, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:24:58,370, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 3
+2021-05-01 01:24:58,370, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 3
+2021-05-01 01:24:58,370, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 3
+2021-05-01 01:24:58,370, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 3
+2021-05-01 01:24:58,370, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 3
+2021-05-01 01:24:58,370, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 3
+2021-05-01 01:24:58,370, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 3
+2021-05-01 01:24:58,370, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 3
+2021-05-01 01:25:31,776, systemLog, INFO, getting fields for Users
+2021-05-01 01:25:31,776, systemLog, INFO, getting fields for Users
+2021-05-01 01:25:31,776, systemLog, INFO, getting fields for Users
+2021-05-01 01:25:31,776, systemLog, INFO, getting fields for Users
+2021-05-01 01:25:31,776, systemLog, INFO, getting fields for Users
+2021-05-01 01:25:31,776, systemLog, INFO, getting fields for Users
+2021-05-01 01:25:31,776, systemLog, INFO, getting fields for Users
+2021-05-01 01:25:31,776, systemLog, INFO, getting fields for Users
+2021-05-01 01:25:31,776, systemLog, INFO, getting fields for Users
+2021-05-01 01:25:31,777, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:25:31,777, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:25:31,777, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:25:31,777, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:25:31,777, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:25:31,777, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:25:31,777, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:25:31,777, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:25:31,777, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:25:31,815, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:25:31,815, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:25:31,815, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:25:31,815, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:25:31,815, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:25:31,815, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:25:31,815, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:25:31,815, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:25:31,815, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 01:25:33,484, systemLog, INFO, getting fields for Users
+2021-05-01 01:25:33,484, systemLog, INFO, getting fields for Users
+2021-05-01 01:25:33,484, systemLog, INFO, getting fields for Users
+2021-05-01 01:25:33,484, systemLog, INFO, getting fields for Users
+2021-05-01 01:25:33,484, systemLog, INFO, getting fields for Users
+2021-05-01 01:25:33,484, systemLog, INFO, getting fields for Users
+2021-05-01 01:25:33,484, systemLog, INFO, getting fields for Users
+2021-05-01 01:25:33,484, systemLog, INFO, getting fields for Users
+2021-05-01 01:25:33,484, systemLog, INFO, getting fields for Users
+2021-05-01 01:25:33,484, systemLog, INFO, getting fields for Users
+2021-05-01 01:25:33,485, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:25:33,485, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:25:33,485, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:25:33,485, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:25:33,485, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:25:33,485, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:25:33,485, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:25:33,485, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:25:33,485, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:25:33,485, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:25:33,556, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 01:25:33,556, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 01:25:33,556, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 01:25:33,556, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 01:25:33,556, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 01:25:33,556, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 01:25:33,556, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 01:25:33,556, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 01:25:33,556, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 01:25:33,556, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 01:31:48,348, systemLog, INFO, getting fields for Users
+2021-05-01 01:31:48,348, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 01:31:48,402, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 02:49:20,350, systemLog, INFO, getting fields for Users
+2021-05-01 02:49:20,351, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 02:49:20,394, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 02:49:22,103, systemLog, INFO, getting fields for Users
+2021-05-01 02:49:22,104, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 02:49:22,151, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 02:49:29,516, systemLog, INFO, getting fields for Users
+2021-05-01 02:49:29,516, systemLog, INFO, getting fields for Users
+2021-05-01 02:49:29,516, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 02:49:29,516, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 02:49:29,573, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 02:49:29,573, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 02:49:32,351, systemLog, INFO, getting fields for Users
+2021-05-01 02:49:32,351, systemLog, INFO, getting fields for Users
+2021-05-01 02:49:32,351, systemLog, INFO, getting fields for Users
+2021-05-01 02:49:32,352, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 02:49:32,352, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 02:49:32,352, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 02:49:32,390, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 02:49:32,390, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 02:49:32,390, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 02:49:38,068, systemLog, INFO, getting fields for Users
+2021-05-01 02:49:38,068, systemLog, INFO, getting fields for Users
+2021-05-01 02:49:38,068, systemLog, INFO, getting fields for Users
+2021-05-01 02:49:38,068, systemLog, INFO, getting fields for Users
+2021-05-01 02:49:38,068, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 02:49:38,068, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 02:49:38,068, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 02:49:38,068, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 02:49:38,106, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = None
+2021-05-01 02:49:38,106, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = None
+2021-05-01 02:49:38,106, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = None
+2021-05-01 02:49:38,106, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = None
+2021-05-01 02:49:51,685, systemLog, INFO, getting fields for Users
+2021-05-01 02:49:51,685, systemLog, INFO, getting fields for Users
+2021-05-01 02:49:51,685, systemLog, INFO, getting fields for Users
+2021-05-01 02:49:51,685, systemLog, INFO, getting fields for Users
+2021-05-01 02:49:51,685, systemLog, INFO, getting fields for Users
+2021-05-01 02:49:51,686, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 02:49:51,686, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 02:49:51,686, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 02:49:51,686, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 02:49:51,686, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 02:49:51,732, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = None
+2021-05-01 02:49:51,732, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = None
+2021-05-01 02:49:51,732, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = None
+2021-05-01 02:49:51,732, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = None
+2021-05-01 02:49:51,732, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = None
+2021-05-01 02:49:54,652, systemLog, INFO, getting fields for Users
+2021-05-01 02:49:54,652, systemLog, INFO, getting fields for Users
+2021-05-01 02:49:54,652, systemLog, INFO, getting fields for Users
+2021-05-01 02:49:54,652, systemLog, INFO, getting fields for Users
+2021-05-01 02:49:54,652, systemLog, INFO, getting fields for Users
+2021-05-01 02:49:54,652, systemLog, INFO, getting fields for Users
+2021-05-01 02:49:54,653, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 02:49:54,653, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 02:49:54,653, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 02:49:54,653, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 02:49:54,653, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 02:49:54,653, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 02:49:54,701, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 02:49:54,701, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 02:49:54,701, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 02:49:54,701, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 02:49:54,701, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 02:49:54,701, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 21:49:09,234, systemLog, INFO, getting fields for Users
+2021-05-01 21:49:09,234, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 21:49:09,280, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 21:49:10,742, systemLog, INFO, getting fields for Users
+2021-05-01 21:49:10,742, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 21:49:10,825, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 21:49:28,077, systemLog, INFO, getting fields for Users
+2021-05-01 21:49:28,077, systemLog, INFO, getting fields for Users
+2021-05-01 21:49:28,077, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 21:49:28,077, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 21:49:28,134, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 21:49:28,134, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 21:49:38,998, systemLog, INFO, getting fields for Users
+2021-05-01 21:49:38,998, systemLog, INFO, getting fields for Users
+2021-05-01 21:49:38,998, systemLog, INFO, getting fields for Users
+2021-05-01 21:49:38,998, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 21:49:38,998, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 21:49:38,998, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 21:49:39,040, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 21:49:39,040, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 21:49:39,040, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 21:50:06,292, systemLog, INFO, getting fields for Users
+2021-05-01 21:50:06,292, systemLog, INFO, getting fields for Users
+2021-05-01 21:50:06,292, systemLog, INFO, getting fields for Users
+2021-05-01 21:50:06,292, systemLog, INFO, getting fields for Users
+2021-05-01 21:50:06,292, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 21:50:06,292, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 21:50:06,292, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 21:50:06,292, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 21:50:06,331, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 21:50:06,331, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 21:50:06,331, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 21:50:06,331, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 21:50:08,116, systemLog, INFO, getting fields for Users
+2021-05-01 21:50:08,116, systemLog, INFO, getting fields for Users
+2021-05-01 21:50:08,116, systemLog, INFO, getting fields for Users
+2021-05-01 21:50:08,116, systemLog, INFO, getting fields for Users
+2021-05-01 21:50:08,116, systemLog, INFO, getting fields for Users
+2021-05-01 21:50:08,117, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 21:50:08,117, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 21:50:08,117, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 21:50:08,117, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 21:50:08,117, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 21:50:08,161, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 21:50:08,161, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 21:50:08,161, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 21:50:08,161, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 21:50:08,161, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 21:56:34,874, systemLog, INFO, getting fields for Users
+2021-05-01 21:56:34,874, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 21:56:34,927, systemLog, INFO, sql = SELECT * FROM `Users`  WHERE `User_ID` = %s; values = 1
+2021-05-01 22:09:54,535, systemLog, INFO, getting fields for Users
+2021-05-01 22:09:54,535, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 22:09:54,579, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
+2021-05-01 22:10:21,906, systemLog, INFO, getting fields for Users
+2021-05-01 22:10:21,906, systemLog, INFO, getting fields for Users
+2021-05-01 22:10:21,906, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 22:10:21,906, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 22:11:04,588, systemLog, INFO, getting fields for Users
+2021-05-01 22:11:04,588, systemLog, INFO, fields = ['User_First_Name', 'User_Last_Name', 'User_Type', 'Department_ID', 'User_Email', 'User_Password']
+2021-05-01 22:11:04,684, systemLog, INFO, sql = SELECT * FROM `Users`; values = <built-in function id>
