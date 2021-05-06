@@ -14,7 +14,7 @@
 	  Event Status: <br>
 	  <select name="Event_Status">
 		{% for t in choices %}
-			{% if object.Event_Status|string == t[0]|string %}
+			{% if object.Event_Status|string == t|string %}
 				<option selected="true" value="{{ t }}">{{ t }}</option>
 			{% else %}
 				<option value="{{ t }}">{{ t }}</option>
