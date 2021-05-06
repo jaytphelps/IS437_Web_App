@@ -14,7 +14,6 @@ reports.
 
 
 ##Login Table
-
 User Type  |  User Email  |  Password
 ------------ | ------------ | ------------
 Admin  |  jp@cu.com  |  12345
