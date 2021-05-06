@@ -13,7 +13,7 @@ information such as if reports were sent, recieved, and viewed. Users can also d
 reports.
 
 
-###Login Table
+##Login Table
 
 User Type  |  User Email  |  Password
 ------------ | ------------ | ------------
